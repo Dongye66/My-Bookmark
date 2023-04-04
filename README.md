@@ -98,8 +98,8 @@ yarn serve
 修改标题和描述
 
 ```html
-<title>听潮亭</title>
-<meta name=description content="送报少年的各种网页收藏"> 
+<title>膻味书屋</title>
+<meta name=description content="偶像练习生的各种网页收藏"> 
 ```
 ### 页脚
 
@@ -119,8 +119,4 @@ yarn serve
 
 将修改后的项目，新建一个仓库并连接vercel自动打包部署，更多教程请自行搜索
 
-
-## 打赏
-
-[点击链接请我喝瓶美汁源吧！](https://donate.okarin.cn/)
 
